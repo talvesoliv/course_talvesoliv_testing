@@ -1,2 +1,2 @@
 # course_talvesoliv_testing
-testing class
+testing class activate
